@@ -2,7 +2,7 @@
 
 - Prérequis
 
-  Système : Linux (Ubuntu/Debian)
+  Système : Linux (Ubuntu/Debian)   
   Droits administrateur (sudo)
 
 - Installation
