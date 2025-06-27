@@ -7,10 +7,9 @@
 
 - Installation
   
-  Téléchargez le fichier app_TatsuOS_1.2_deb.deb depuis la page des releases   de ce dépôt.
+  Téléchargez le fichier app_TatsuOS_1.2_deb.deb depuis la page des github.
 
-  Ouvrez un terminal et allez dans le dossier où se trouve le fichier          app_TatsuOS_1.2_deb.deb
-
+  Ouvrez un terminal et allez dans le dossier où se trouve le fichier app_TatsuOS_1.2_deb.deb
   Par exemple :
   cd ~/Téléchargements
   
@@ -19,6 +18,5 @@
   
 - Lancer l'application
 
-  Une fois installée, lancez Tatsubench via le terminal :
-  tatsubench
+  Une fois installée, lancez Tatsubench via le terminal : tatsubench
 
